@@ -4,7 +4,7 @@ This repository contains code for experimenting with Facebook's translation mode
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.6+
 - pip (Python package installer)
 
 ## Installation
